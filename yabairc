@@ -40,6 +40,7 @@ yabai -m config window_border on                      \
                 active_window_opacity 1.0             \
                 normal_window_opacity 0.90            \
                 window_border_width 2                 \
+                window_border off                            \
                 window_border_radius 11               \
                 active_window_border_color 0xff7793d1 \
                 normal_window_border_color 0xff5e6798 \
